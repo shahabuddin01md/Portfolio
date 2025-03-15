@@ -22,7 +22,7 @@ This is a personal portfolio website built with **React.js and type script**. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sultancodess/Portfolio.git
+   git clone https://github.com/mdshahabuddin/Portfolio.git
 
  
 # npm run dev
